@@ -1,0 +1,37 @@
+Projeto 1: front com react
+
+Projeto 2: front e back (node express)
+
+-------------------------------------------------
+
+Aula 1 -> Apresentação
+
+Aula 2 -> Revisão JS
+
+Aula 3 -> Cancelada
+
+Aula 4 -> Recursos de JS e ES6
+
+Aula 5 -> Ajax
+
+Aula 6 -> Faltei
+
+Aula 7 -> Resolução dos exercícios de JS, ES6, Contexto e OO
+
+Aula 8 -> Exercícios de AJAX + Introdução ao React
+
+Aula 9 -> Faltei
+
+Aula 10 -> Exercícios de Events, States e Props
+
+Aula 11 -> Comunicação entre Componentes
+
+Aula 12 -> Projeto 1
+
+Aula 13 -> Projeto 1
+
+Aula 14 -> Projeto 1
+
+Aula 15 -> Projeto 1
+
+Aula 16 -> Revisão de HTTP, Node.js e Express
