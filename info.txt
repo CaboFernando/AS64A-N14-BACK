@@ -42,3 +42,5 @@ Aula 18 -> Docker: Comandos importantes
     -> docker run -it -v "$(pwd)":/app -p 3000:3000 node:22-alpine ash
     -> cd app
     -> npm install & npm start
+
+Aula 19 -> Rest
