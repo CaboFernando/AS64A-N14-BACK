@@ -44,3 +44,7 @@ Aula 18 -> Docker: Comandos importantes
     -> npm install & npm start
 
 Aula 19 -> Rest
+
+Aula 20 -> Memory Cache
+
+Aula 21 -> Redis & WebSockets & RabbitMQ
